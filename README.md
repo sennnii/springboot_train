@@ -5,7 +5,7 @@ Mustache 템플릿 엔진을 사용해 동적인 페이지를 렌더링하며,
 기본적인 컨트롤러 매핑을 통해 `/hi`, `/bye` 경로에서 메시지를 출력합니다.
 
 ![Java](https://img.shields.io/badge/Java-17-blue?style=flat-square)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.4.4-brightgreen?style=flat-square)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.1.0-brightgreen?style=flat-square)
 ![Mustache](https://img.shields.io/badge/Mustache-Template-yellow?style=flat-square)
 
 ---
