@@ -24,7 +24,4 @@ public class Member {
 
     @Column
     private String password;
-
-    public String getId() {
-    }
 }
